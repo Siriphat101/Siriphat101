@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siriphat101
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python flask and django or anything 
+- 💞️ I’m looking to collaborate on python flask or anything 
 - 📫 How to reach me siriphatpk101@gmail.com
 
 <!---
